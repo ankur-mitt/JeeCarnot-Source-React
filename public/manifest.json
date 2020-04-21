@@ -1,0 +1,25 @@
+{
+  "short_name": "JEE-Carnot",
+  "name": "JEE-Carnot React-Web-App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo453.png",
+      "type": "image/png",
+      "sizes": "453x453"
+    },
+    {
+      "src": "logo716.png",
+      "type": "image/png",
+      "sizes": "716x716"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#294692",
+  "background_color": "#f5f5f5"
+}
