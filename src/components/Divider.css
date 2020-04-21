@@ -1,0 +1,31 @@
+.section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+hr {
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+}
+
+#three-hr-divider {
+    align-content: center !important;
+}
+
+#three-hr-divider #one {
+    width: 50%;
+    border: 1px solid #294692;
+    border-radius: 1px;
+}
+
+#three-hr-divider #two {
+    width: 100%;
+    border: 1px solid #294692;
+    border-radius: 1px;
+}
+
+#three-hr-divider #three {
+    width: 75%;
+    border: 1px solid #294692;
+    border-radius: 1px;
+}

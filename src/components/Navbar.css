@@ -1,0 +1,32 @@
+#nav-bar {
+    overflow: hidden;
+    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.3), rgba(100, 100, 100, 0.1));
+    backdrop-filter: blur(3px);
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    z-index: 9999;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+
+    transition: top 0.9s;
+}
+
+#brand-is-left {
+    max-height: 4rem;
+    margin-left: 1rem;
+}
+
+#register-button button {
+    color: white;
+    background-color: #294692;
+    float: right;
+    margin-right: 1.2rem;
+    margin-top: calc(2rem - 15px);
+}
+
+#register-icon {
+    width: 20px;
+    margin-left: 0.4rem;
+    filter: brightness(0) invert(1);
+}

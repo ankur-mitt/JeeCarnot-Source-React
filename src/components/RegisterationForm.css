@@ -1,0 +1,37 @@
+#registeration-form {
+    border-radius: 2rem;
+    background-color: white;
+    padding: 2rem;
+}
+
+@media screen and (min-width:768px) {
+    #registeration-form {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+@media screen and (min-width:1280px) {
+    #registeration-form {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+}
+
+.control {
+    margin-top: 2rem;
+}
+
+input {
+    margin-top: 0.5rem;
+}
+
+.form-request {
+    padding-left: 1rem;
+    color: #294692;
+}
+
+form label {
+    font-size: larger;
+    padding-left: 2rem;
+    color: #432A93;
+}

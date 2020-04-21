@@ -1,0 +1,45 @@
+#important-message {
+    background-color: white;
+    border-radius: 2rem;
+}
+
+#important-message {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.quote-box {
+    border: 0.2rem solid #294692;
+    box-shadow: 2px 2px rgba(100, 100, 100, 0.6);
+    box-shadow: 4px 4px rgba(100, 100, 100, 0.3);
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    width: 90%;
+    max-width: 900px;
+    min-height: 30vh;
+    background-color: #f3ebdfb2;
+    display: flex;
+}
+
+#message-heading {
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    color: #432A93;
+}
+
+#message-text {
+    margin-bottom: 1rem;
+    padding-bottom: 1.5rem;
+    color: #2A7993;
+}
+
+#message-graph {
+    max-width: 20rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#message-graph img {
+    border-radius: 0.4rem;
+    border: 1px solid black;
+}

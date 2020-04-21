@@ -1,0 +1,30 @@
+.pre-loader {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 9999999;
+    background-image: url("/imgs/bg-colour.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    opacity: 0.9;
+    backdrop-filter: blur(3px);
+}
+
+.main-logo {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    max-width: 12rem;
+    top: 25%;
+    left: calc(50% - 6.5rem);
+}
+
+.loading-img {
+    margin: 0;
+    padding: 0;
+    max-width: 2.4rem;
+    position: absolute;
+    bottom: 3.5rem;
+    left: calc(50% - 1.2rem);
+}

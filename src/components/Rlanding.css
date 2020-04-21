@@ -1,0 +1,22 @@
+#r-landing {
+    background-color: white;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+#light-bg {
+    background-color: #f5f5f5;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+#registeration-landing-image {
+    width: 100vw;
+    height: 50vh;
+    background-image: url("/imgs/registeration.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    border-radius: 2rem;
+}
