@@ -1,0 +1,4 @@
+theme color = #294692
+heading color = #432A93
+text color = #2A7993
+background color = #f5f5f5
